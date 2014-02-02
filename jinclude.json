@@ -1,0 +1,35 @@
+{
+	"name": "jsInclude",
+	"title": "jQuery jsInclude",
+	"description": "jsInclude is a php include() alternative.",
+	"keywords": [
+		"jquery",
+		"plugins"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Dimitris Krestos",
+		"email": "dkrestos@gmail.com",
+		"url": "https://github.com/vdw"
+	},
+	"maintainers": [
+		{
+			"name": "Dimitris Krestos",
+			"email": "dkrestos@gmail.com",
+			"url": "https://github.com/vdw"
+		}
+	],
+	"licenses": [
+		{
+			"type": "Apache",
+			"url": "http://www.apache.org/licenses/LICENSE-2.0"
+		}
+	],
+	"bugs": "https://github.com/vdw/jsInclude/issues",
+	"homepage": "http://vdw.github.io/jsInclude",
+	"docs": "https://github.com/vdw/jsInclude#readme",
+	"download": "https://github.com/vdw/jsInclude/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.8.1"
+	}
+}
